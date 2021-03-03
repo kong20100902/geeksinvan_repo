@@ -1,1 +1,1 @@
-https://geeksinvan.ddns.net:8443/ esxihttps://geeksinvan.ddns.net:8543/ idrachttps://geeksinvan.ddns.net:8181/ router (cusadmin MAOzedong)ssh port: 50322
+https://geeksinvan.ddns.net:8443/ esxi (root MAOzedong!@#)https://geeksinvan.ddns.net:8543/ idrac (root Apple ID password)https://geeksinvan.ddns.net:8181/ router (cusadmin MAOzedong)ssh port: 50322 username:appuser
